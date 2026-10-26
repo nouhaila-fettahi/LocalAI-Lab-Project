@@ -1,0 +1,1 @@
+Machine learning is a branch of artificial intelligence. Supervised learning uses labelled data to learn a mapping from inputs to outputs.

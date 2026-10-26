@@ -1,0 +1,1 @@
+Reinforcement learning learns through interaction with an environment using rewards and penalties. An agent observes the environment and learns to choose actions.
